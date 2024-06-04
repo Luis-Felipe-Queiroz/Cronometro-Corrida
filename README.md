@@ -1,1 +1,1 @@
-Criei este cronômetro utilizando AWS e banco de dados, o projeto foi criado para marcar o tempo de uma corrida de carros, salvas a voltas e envia para o banco de dados, nele o usuário irá colocar o nome do piloto e a cor do veículo.
+Criei este cronômetro utilizando AWT e banco de dados, o projeto foi criado para marcar o tempo de uma corrida de carros, salvas a voltas e envia para o banco de dados, nele o usuário irá colocar o nome do piloto e a cor do veículo.
